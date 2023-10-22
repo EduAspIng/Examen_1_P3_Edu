@@ -1,0 +1,7 @@
+D:\VB Progra 3\Examen_1_Eduardo_Espinoza\Examen_1_Eduardo_Espinoza\bin\Debug\Examen_1_Eduardo_Espinoza.exe.config
+D:\VB Progra 3\Examen_1_Eduardo_Espinoza\Examen_1_Eduardo_Espinoza\bin\Debug\Examen_1_Eduardo_Espinoza.exe
+D:\VB Progra 3\Examen_1_Eduardo_Espinoza\Examen_1_Eduardo_Espinoza\bin\Debug\Examen_1_Eduardo_Espinoza.pdb
+D:\VB Progra 3\Examen_1_Eduardo_Espinoza\Examen_1_Eduardo_Espinoza\obj\Debug\Examen_1_Eduardo_Espinoza.csproj.AssemblyReference.cache
+D:\VB Progra 3\Examen_1_Eduardo_Espinoza\Examen_1_Eduardo_Espinoza\obj\Debug\Examen_1_Eduardo_Espinoza.csproj.CoreCompileInputs.cache
+D:\VB Progra 3\Examen_1_Eduardo_Espinoza\Examen_1_Eduardo_Espinoza\obj\Debug\Examen_1_Eduardo_Espinoza.exe
+D:\VB Progra 3\Examen_1_Eduardo_Espinoza\Examen_1_Eduardo_Espinoza\obj\Debug\Examen_1_Eduardo_Espinoza.pdb
